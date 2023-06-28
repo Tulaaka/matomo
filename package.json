@@ -32,7 +32,7 @@
     "angular-mocks": "^1.8.2",
     "angular-sanitize": "^1.8.2",
     "chroma-js": "^0.6.3",
-    "core-js": "^3.16.3",
+    "core-js": "^3.30.2",
     "css-loader": "^6.2.0",
     "iframe-resizer": "^4.2.11",
     "jquery": "^2.2.4",
